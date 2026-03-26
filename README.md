@@ -1,6 +1,6 @@
 # Grafana dashboard maker
 
-Simple bash script to generate environment-specific Grafana dashboard templates. Making it possible to easily setup a grafana dashboard for a customer.
+Simple bash script to generate environment-specific Grafana dashboard templates. Making it possible to easily setup a Grafana dashboard for a customer.
 
 ## Quick Start
 
